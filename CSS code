@@ -1,0 +1,35 @@
+.intro {
+  width: 50%;
+  padding: 10px;
+  font-size: medium;
+  color: silver;
+  margin: 10px;
+}
+img {
+  width: 150px;
+}
+
+.tier {
+  width: 33.33%;
+  float: left;
+}
+.info {
+  text-align: center;
+  padding: 50px;
+}
+#garage {
+  background-image: url(./images/bg-cover.png);
+}
+#wheel2 {
+  background-image: url(./images/wheel-bg.jpg);
+}
+/* .garage ::after {
+  background-image: url(./images/bg-cover.png);
+  content: "";
+  display: table;
+  clear: both;
+} */
+body {
+  background-image: url(./images/bg-cover.png);
+  margin-top: 100px;
+}

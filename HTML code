@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./stylesheet.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="intro">
+      <h1 class="title">Wheels</h1>
+      <p class="imformation">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. A, est
+        doloribus. Eaque itaque enim ipsa magnam, aliquam doloribus earum quis!
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut provident
+        est non quae labore ab ad odit quasi tempora a!
+      </p>
+    </div>
+    <div id="garage">
+      <div id="wheel1" class="tier">
+        <center>
+          <img src="/images/wjr.png" alt="whell1" />
+        </center>
+        <div class="info">
+          <p>
+            <b>17- INCH CAST ALUMILIUM WHEEL, FULLY PAINETED SILVER LITHO</b>
+          </p>
+          <p>Standard on Tor=uring FWD</p>
+          <p><b>(WGU)</b></p>
+        </div>
+      </div>
+      <div id="wheel2" class="tier">
+        <center>
+          <img src="/images/wp6.png" alt="whell1" />
+        </center>
+        <div class="info">
+          <p>
+            <b
+              >17- INCH CAST ALUMILIUM DIAMOND CUT WHEEL, WITH BALITIC GRAY
+              POCKETS</b
+            >
+          </p>
+          <p>Standard on Toruring LFWD/Hybrid and touring Hybrid</p>
+          <p><b>(WjU)</b></p>
+        </div>
+      </div>
+
+      <div id="wheel3" class="tier">
+        <center>
+          <img src="/images/wgu.png" alt="whell1" />
+        </center>
+        <div class="info">
+          <p>
+            <b
+              >18- INCH CAST ALUMILIUM DIAMOND CUT WHEEL, WITH BALITIC GRAY
+              POCKETS</b
+            >
+          </p>
+          <p>Standard on Toruring LFWD/Hybrid and touring Hybrid</p>
+          <p><b>(WPG)</b></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

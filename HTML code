@@ -17,7 +17,7 @@
         est non quae labore ab ad odit quasi tempora a!
       </p>
     </div>
-    <div id="garage">
+    <div id="garage" width="720px" hiegth="1152px">
       <div id="wheel1" class="tier">
         <center>
           <img src="/images/wjr.png" alt="whell1" />
@@ -62,5 +62,6 @@
         </div>
       </div>
     </div>
+    
   </body>
 </html>
